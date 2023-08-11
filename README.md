@@ -1,2 +1,2 @@
-# PROFIT-LOSS-ESTIMATOR-
+# PROFIT-LOSS-ESTIMATOR
 To calculate Profit/Loss of a Businesses.
